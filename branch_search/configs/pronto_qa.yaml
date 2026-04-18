@@ -1,0 +1,8 @@
+path: "renma/ProntoQA"
+system_instruction: |
+  You are an expert in logical reasoning and reading comprehension. Your task solve questions.
+
+  Follow these steps strictly:
+  1. Reasoning step by step.
+  2. Output the answer in the format '\boxed{}' ANSWER is one of \boxed{A}, \boxed{B}
+enable_thinking: True

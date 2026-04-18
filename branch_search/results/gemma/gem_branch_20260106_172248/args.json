@@ -1,0 +1,19 @@
+{
+  "model": "google/gemma-3-4b-it",
+  "task": "zebra_logic",
+  "my_name": "gem_branch",
+  "dtype": "bfloat16",
+  "k_top": 20,
+  "n_lookahead": 50,
+  "mx_token": 5,
+  "max_new_tokens": 15000,
+  "save_dir": "./results/gemma/",
+  "save_step": 50,
+  "num_samples": 2,
+  "entropy_gate": 1000.0,
+  "conf_topk": 50,
+  "conf_gate": 1000.0,
+  "end_branch_index": 15000,
+  "is_test": true,
+  "start_branch_index": 10
+}
