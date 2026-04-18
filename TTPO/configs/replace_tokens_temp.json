@@ -1,0 +1,101 @@
+  {
+    " also": [" and", " plus"],
+    " plus": [" and", " also"],
+  
+    " nor": [" or"],
+    " alternatively": [" instead"],
+    " instead": [" alternatively"],
+  
+    " specifically": [" namely", " particularly"],
+    " namely": [" specifically", " particularly"],
+    " particularly": [" specifically", " namely"],
+  
+    " moreover": [" furthermore", " additionally"],
+    " furthermore": [" moreover", " additionally"],
+    " additionally": [" moreover", " furthermore"],
+  
+    " but": [" however", " nevertheless"],
+    " however": [" nevertheless"],
+    " nevertheless": [" however", " nonetheless"],
+    " nonetheless": [" nevertheless", " however"],
+  
+    " although": [" though"],
+    " though": [" although"],
+    " despite": [" regardless"],
+    " regardless": [" despite"],
+  
+    " likewise": [" similarly"],
+    " similarly": [" likewise"],
+  
+    " before": [" previously", " earlier"],
+    " after": [" later", " subsequently"],
+    " meanwhile": [" meantime"],
+    " meantime": [" meanwhile"],
+    " afterwards": [" later"],
+    " previously": [" earlier"],
+    " earlier": [" previously"],
+    " later": [" afterwards"],
+    " finally": [" ultimately", " eventually"],
+    " ultimately": [" finally", " eventually"],
+    " then": [" next"],
+  
+    " unless": [" if"],
+    " otherwise": [" instead"],
+  
+    " therefore": [" thus", " hence", " consequently", " accordingly"],
+    " thus": [" therefore", " hence"],
+    " hence": [" therefore", " thus"],
+    " consequently": [" therefore", " thus"],
+    " accordingly": [" therefore", " thus"],
+  
+    " Also": [" And", " Plus"],
+    " Plus": [" And", " Also"],
+  
+    " Nor": [" Or"],
+    " Alternatively": [" Instead"],
+    " Instead": [" Alternatively"],
+  
+    " Specifically": [" Namely", " Particularly"],
+    " Namely": [" Specifically", " Particularly"],
+    " Particularly": [" Specifically", " Namely"],
+  
+    " Moreover": [" Furthermore", " Additionally"],
+    " Furthermore": [" Moreover", " Additionally"],
+    " Additionally": [" Moreover", " Furthermore"],
+  
+    " But": [" However", " Nevertheless"],
+    " However": [" Nevertheless"],
+    " Nevertheless": [" However", " Nonetheless"],
+    " Nonetheless": [" Nevertheless", " However"],
+  
+    " Although": [" Though"],
+    " Though": [" Although"],
+    " Despite": [" Regardless"],
+    " Regardless": [" Despite"],
+  
+    " Likewise": [" Similarly"],
+    " Similarly": [" Likewise"],
+  
+    " Before": [" Previously", " Earlier"],
+    " After": [" Later", " Subsequently"],
+    " Meanwhile": [" Meantime"],
+    " Meantime": [" Meanwhile"],
+    " Afterwards": [" Later"],
+    " Previously": [" Earlier"],
+    " Earlier": [" Previously"],
+    " Later": [" Afterwards"],
+    " Finally": [" Ultimately", " Eventually"],
+    " Ultimately": [" Finally", " Eventually"],
+    " Then": [" Next"],
+  
+    " Unless": [" If"],
+    " Otherwise": [" Instead"],
+  
+    " Therefore": [" Thus", " Hence", " Consequently", " Accordingly"],
+    " Thus": [" Therefore", " Hence"],
+    " Hence": [" Therefore", " Thus"],
+    " Consequently": [" Therefore", " Thus"],
+    " Accordingly": [" Therefore", " Thus"],
+    " First" : [" Initially"]
+  }
+    

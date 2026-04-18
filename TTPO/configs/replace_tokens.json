@@ -1,0 +1,152 @@
+{
+  " And": [" As well as", " Moreover", " Furthermore", " In addition"],
+
+  " As well as": [" In addition to", " Together with"],
+  " as well as": [" in addition to", " together with"],
+
+  " Also": [" Additionally"],
+  " also": [" additionally"],
+
+  " Or": [" Alternatively"],
+  " or": [" alternatively"],
+
+  " Instead": [" Alternatively"],
+  " instead": [" alternatively"],
+
+  " But": [" However", " Nevertheless", " Nonetheless"],
+  " but": [" however", " nevertheless", " nonetheless"],
+
+  " Yet": [" However", " Still"],
+  " yet": [" however", " still"],
+
+  " While": [" Whereas"],
+  " while": [" whereas"],
+
+  " Unlike": [" In contrast", " On the contrary"],
+  " unlike": [" in contrast", " on the contrary"],
+
+  " Rather": [" Instead", " In preference to"],
+  " rather": [" instead", " in preference to"],
+
+  " Rather than": [" Instead of"],
+  " rather than": [" instead of"],
+
+  " On the other hand": [" Conversely"],
+  " on the other hand": [" conversely"],
+
+  " Although": [" Even though"],
+  " although": [" even though"],
+
+  " Though": [" Although"],
+  " though": [" although"],
+
+  " Despite": [" In spite of", " Notwithstanding"],
+  " despite": [" in spite of", " notwithstanding"],
+
+  " Regardless": [" Irrespective of"],
+  " regardless": [" irrespective of"],
+
+  " Nevertheless": [" Nonetheless"],
+  " nevertheless": [" nonetheless"],
+
+  " For example": [" For instance", " To illustrate"],
+  " for example": [" for instance", " to illustrate"],
+
+  " Such as": [" Namely"],
+  " such as": [" namely"],
+
+  " Specifically": [" Particularly", " In particular"],
+  " specifically": [" particularly", " in particular"],
+
+  " Besides": [" Moreover"],
+  " besides": [" moreover"],
+
+  " Plus": [" Moreover", " Furthermore"],
+  " plus": [" moreover", " furthermore"],
+
+  " Indeed": [" In fact"],
+  " indeed": [" in fact"],
+
+  " In short": [" In summary", " In brief"],
+  " in short": [" in summary", " in brief"],
+
+  " In the end": [" Ultimately"],
+  " in the end": [" ultimately"],
+
+  " Overall": [" On the whole"],
+  " overall": [" on the whole"],
+
+  " Before": [" Previously"],
+  " before": [" previously"],
+
+  " After": [" Subsequently", " Thereafter"],
+  " after": [" subsequently", " thereafter"],
+
+  " When": [" As soon as"],
+  " when": [" as soon as"],
+
+  " Then": [" Subsequently", " Next"],
+  " then": [" subsequently", " next"],
+
+  " Next": [" Thereafter", " Then"],
+  " next": [" thereafter", " then"],
+
+  " Until": [" Till"],
+  " until": [" till"],
+
+  " Meanwhile": [" In the meantime"],
+  " meanwhile": [" in the meantime"],
+
+  " Afterwards": [" Thereafter"],
+  " afterwards": [" thereafter"],
+
+  " Earlier": [" Previously"],
+  " earlier": [" previously"],
+
+  " Later": [" Thereafter"],
+  " later": [" thereafter"],
+
+  " Finally": [" Ultimately"],
+  " finally": [" ultimately"],
+
+  " If": [" Provided that", " Assuming that", " Given that"],
+
+  " Unless": [" Otherwise"],
+  " unless": [" otherwise"],
+
+  " Because": [" Since", " As a result", " Owing to"],
+  " because": [" since", " as a result", " owing to"],
+
+  " Therefore": [" Thus", " Hence", " Accordingly"],
+  " therefore": [" thus", " hence", " accordingly"],
+
+  " So that": [" In order that", " With the result that"],
+  " so that": [" in order that", " with the result that"],
+
+  " Why": [" For what reason"],
+  " why": [" for what reason"],
+
+  " Cause": [" Bring about", " Give rise to"],
+  " cause": [" bring about", " give rise to"],
+
+  " Result in": [" Lead to"],
+  " result in": [" lead to"],
+
+  " Consequently": [" Accordingly"],
+  " consequently": [" accordingly"],
+
+  " In order to": [" So as to"],
+  " in order to": [" so as to"],
+
+  " In other words": [" That is to say"],
+  " in other words": [" that is to say"],
+
+  " Likewise": [" Similarly"],
+  " likewise": [" similarly"],
+
+  " As if": [" As though"],
+  " as if": [" as though"],
+
+  " Just as": [" Just like"],
+  " just as": [" just like"]
+}
