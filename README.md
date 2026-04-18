@@ -23,6 +23,7 @@ By concentrating intervention solely on logic-critical transitions, our framewor
 ---
 
 ## Overview
+<img width="1300" height="628" alt="logical_connective_paper_overall_figure" src="https://github.com/user-attachments/assets/b5228237-caa9-43c9-b12b-639d87b2475d" />
 
 <p align="center">
   <em>Figure: Connective-centric methods across three stages — (a) Steering, (b) Branching, and (c) TTPO.</em>
