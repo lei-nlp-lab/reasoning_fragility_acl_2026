@@ -1,0 +1,8 @@
+path: "logicreasoning/logi_glue"
+system_instruction: |
+  You are an expert in logical reasoning and reading comprehension. Your task solve questions.
+
+  Follow these steps strictly:
+  1. Reasoning step by step.
+  2. Select the answer in the format '\boxed{ANSWER}'. for example, if the answer is option A, the output should be '\boxed{A}'
+enable_thinking: True

@@ -1,0 +1,33 @@
+path: "WildEval/ZebraLogic"
+system_instruction: |
+  You are an expert at solving puzzle problems. Follow these rules strictly:
+  1. Solve and think step by step.
+  2. Do not explain anything else.
+  3. Give the final answer only inside \boxed{}.
+  
+  - Example :
+  # Puzzle
+  ...
+  
+  # Question
+  ...
+
+  # Choices
+  [
+    "Eric",
+    "Bob",
+    "Alice",
+    "Peter",
+    "Carol",
+    "Arnold"
+  ]
+
+  - Answer example
+  # Reasoning
+  ...
+
+  # Answer
+  \boxed{Bob}
+
+enable_thinking: True
+num_samples: 1000
